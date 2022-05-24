@@ -5,6 +5,9 @@ Xin chào các bạn, mình tên là Phi. Trong project này, mình làm về t�
 
 # Cách chơi
 Game có cách chơi đơn giản. Nhấn phím Space để nhân vật nhảy lên vượt chướng ngại vật.
+
+![image](https://user-images.githubusercontent.com/100513675/170081540-1ca3d62a-45fe-471f-8147-49b34c5eec0b.png)
+
 # Thuật toán
 Mình sử dụng hàm check va chạm, nếu va chạm là thua. Còn không điểm sẽ tăng dần theo thời gian. Khi điểm đạt 500 thì +1 speed game, đạt 1000 +1 speed game.
 
