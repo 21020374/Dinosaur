@@ -1,4 +1,4 @@
-#Dinosaur
+# Dinosaur
 Một dự án game nhỏ tại UET-VNU.
 
 Xin chào các bạn, mình tên là Phi. Trong project này, mình làm về tựa game Dinosaur ở trên web. Ngôn ngữ được sử dụng là C++ và sử dụng thư viện đồ họa SDL2.0.
