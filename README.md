@@ -14,6 +14,6 @@ Mình sử dụng hàm check va chạm, nếu va chạm là thua. Còn không đ
 Sau đó cứ mỗi lần điểm chia hết cho 2000 thì lại +1 speed game.
 
 # Đánh giá của mình
-Xin mời thầy cô đánh giá chấm điểm game của em.
+Xin mời thầy cô đánh giá chấm điểm game của em ạ.
 
 
